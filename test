@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My1st</title>
+
+  </head>
+  <body>
+<h1>Сайт</h1>
+<h2>Сайт2</h2>
+<h3>Сайт3</h3>
+<b>и лошадка</b>
+
+<p>лошадка</p>
+<ins>лошадка</ins>
+<p><i>лошадка</i></p>
+лоша<br>дка
+
+
+  </body>
+</html>
